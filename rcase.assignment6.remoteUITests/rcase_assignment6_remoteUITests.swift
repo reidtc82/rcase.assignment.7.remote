@@ -8,7 +8,7 @@
 
 import XCTest
 
-class rcase_assignment4_remoteUITests: XCTestCase {
+class rcase_assignment6_remoteUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import rcase_assignment4_remote
+@testable import rcase_assignment6_remote
 
 class rcase_assignment4_remoteTests: XCTestCase {
     
